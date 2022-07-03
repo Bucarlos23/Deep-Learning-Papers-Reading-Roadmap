@@ -1,5 +1,5 @@
 from __future__ import print_function
-import os
+import osa
 import re
 from six.moves.urllib.error import HTTPError
 import shutil
